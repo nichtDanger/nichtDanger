@@ -1,6 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm nichtDanger</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm nichtDanger -->
+## Hey <img src="./assets/Hand%20Wave.gif" width="40px">, I'm [nichtDanger](https://nichtdanger.de/)! 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -15,7 +13,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/nichtDanger">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nichtDanger&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
