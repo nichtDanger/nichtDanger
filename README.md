@@ -8,7 +8,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat&logo=Next.js)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -16,6 +16,5 @@
 <p align="center">
 <a href="https://github.com/nichtDanger">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nichtDanger&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nichtDanger&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
